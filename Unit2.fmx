@@ -1,0 +1,18 @@
+object Frame2: TFrame2
+  HitTest = False
+  Size.Width = 497.000000000000000000
+  Size.Height = 508.000000000000000000
+  Size.PlatformDefault = False
+  OnPainting = FramePainting
+  object ShowText: TText
+    AutoSize = True
+    HitTest = False
+    Position.X = 8.000000000000000000
+    Position.Y = 8.000000000000000000
+    Size.Width = 26.007812500000000000
+    Size.Height = 15.960937500000000000
+    Size.PlatformDefault = False
+    Text = '0,00'
+    TextSettings.WordWrap = False
+  end
+end

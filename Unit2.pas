@@ -9,12 +9,14 @@ uses
 type
   TLineState = (lsNone, lsMove, lsEnd);
 
+  TFP = Array[1..4] of TPointF;
+
   TFrame2 = class(TFrame)
     ShowText: TText;
 
     procedure FramePainting(Sender: TObject; Canvas: TCanvas; const ARect: TRectF);
   private
-    FP :Array[1..4] of TPointF;
+    FP : TFP;
     FPN: integer;
     FState: TLineState;
     function IsShow: Boolean;
@@ -26,6 +28,7 @@ type
     procedure ToDown(aXY: TPointF);
     procedure ToUp(aXY: TPointF);
     property State: TlineState read FState;
+    property Wycin: TFP read FP;
   end;
 
 implementation

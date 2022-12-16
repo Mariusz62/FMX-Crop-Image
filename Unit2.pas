@@ -38,10 +38,10 @@ implementation
 constructor TFrame2.Create(AOwner: TComponent);
 begin
   inherited;
-  FP[1] := PointF(  10, 10 );   //  pf1------pf2
-  FP[2] := PointF( 100, 10 );   //   |        |
-  FP[3] := PointF( 100, 100);   //   |        |
-  FP[4] := PointF( 10, 100);    //  pf4-----pf3
+  FP[1] := PointF(  100, 100 );   //  pf1------pf2
+  FP[2] := PointF( 200, 100 );   //   |        |
+  FP[3] := PointF( 200, 200);   //   |        |
+  FP[4] := PointF( 100, 200);    //  pf4-----pf3
   FPN := 0;
   FState := TLineState.lsNone;
 end;

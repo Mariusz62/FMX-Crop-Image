@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.365,E:\_proj_del_FMX\Unit1.fmx=E:\_proj_del_FMX\A-05\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.651,E:\_proj_del_FMX\_CropImg\LaunchActivities.pas=E:\_proj_del_FMX\_CropImg\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.034,E:\_proj_del_FMX\_CropImg\crop02.pas=E:\_proj_del_FMX\_CropImg\crop.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.993,E:\_proj_del_FMX\_CropImg\crop02.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.909,E:\_proj_del_FMX\_CropImg\SelFile.fmx=E:\_proj_del_FMX\_CropImg\FileSel.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.092,E:\_proj_del_FMX\_CropImg\Project1.dproj=E:\_proj_del_FMX\_CropImg\CropImage.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.573,E:\_proj_del_FMX\Project1.dproj=E:\_proj_del_FMX\A-05\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.909,E:\_proj_del_FMX\_CropImg\SelFile.pas=E:\_proj_del_FMX\_CropImg\FileSel.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.691,E:\_proj_del_FMX\_CropImg\SelFile.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.380,E:\_proj_del_FMX\_CropImg\FileSel.fmx=E:\_proj_del_FMX\_CropImg\Unit3.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.468,=E:\_proj_del_FMX\_CropImg\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.340,=E:\_proj_del_FMX\_CropImg\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.753,E:\_proj_del_FMX\_CropImg\Androidapi.JNI.Toast.pas=E:\_proj_del_FMX\_CropImg\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.405,=E:\_proj_del_FMX\A-05\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.380,E:\_proj_del_FMX\_CropImg\FileSel.pas=E:\_proj_del_FMX\_CropImg\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.660,=E:\_proj_del_FMX\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.365,E:\_proj_del_FMX\Unit1.pas=E:\_proj_del_FMX\A-05\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.756,E:\_proj_del_FMX\_CropImg\crop.pas=E:\_proj_del_FMX\_CropImg\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.565,=E:\_proj_del_FMX\_CropImg\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.001,=E:\_proj_del_FMX\_CropImg\Unit3.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
